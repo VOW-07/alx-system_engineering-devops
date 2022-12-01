@@ -1,1 +1,1 @@
-Delete the file betty
+Deletes directory in tmp
