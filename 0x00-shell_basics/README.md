@@ -1,1 +1,1 @@
-Displays current directory contents, long format,with user and group IDs displayed numerically and hidden files starting with dots
+creates a script that creates a directory named holberton in the /tmp/directory
