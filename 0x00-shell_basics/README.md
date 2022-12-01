@@ -1,1 +1,1 @@
-Display the contents list of your currtory
+ a script that changes the working directory to the user’s home directory
